@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @phuducdang
-- 👀 I’m interested in NODEJS, PHP, C# and AI
+- 👀 I’m interested in NODEJS, PHP and C#
 - 🌱 I am working for a number of startups in Vietnam
 
 <!---
